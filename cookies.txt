@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+journal.itera.ac.id	TRUE	/	FALSE	1999999999	OJSSID	76fq7sgasdb4u806bhl8g5rhnl
+.orcid.org	TRUE	/	FALSE	1999999999	__cf_bm	zswl6JqRTqmCtAkxd6g6X8Zw5R_hxXBMGCzlekZP6XE-1750217713-1.0.1.1-Y1avL4C_ePux10ySu9n7yZ68jv412KYpoLqOUNpxlKPlM9q8QeJ7Y047zllStffAAUl7mlwWvzW7.VrbVPLrr0TMuHnOsyK2tgFx3Xf__SQ
+info.orcid.org	TRUE	/	FALSE	1999999999	SameSite	None
+

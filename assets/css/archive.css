@@ -1,0 +1,182 @@
+/* body {
+  font-family: 'Inter', Arial, sans-serif;
+  background: #f6f8fa;
+  margin: 0;
+  color: #222;
+}
+.archive-container {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+  color: #0f4a63;
+}
+.issues_archive {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: flex-start;
+}
+.issues_archive > li {
+  flex: 1 1 350px;
+  max-width: 420px;
+  min-width: 280px;
+  display: flex;
+}
+.obj_issue_summary {
+  background: var(--white);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  transition: var(--transition);
+  padding: 1.5rem 1.2rem 1.2rem 1.2rem;
+  display: flex;
+  flex-direction: row;
+  gap: 1.2rem;
+  width: 100%;
+  align-items: flex-start;
+}
+.obj_issue_summary:hover {
+  transform: translateY(-4px) scale(1.012);
+  box-shadow: 0 6px 24px 0 rgba(0,0,0,0.13);
+}
+.cover img {
+  width: 90px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: var(--border-radius);
+  box-shadow: 0 1px 6px 0 rgba(0,0,0,0.08);
+  background: #e9ecef;
+}
+.issue-content {
+  flex: 1 1 0%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.title {
+  font-size: 1.18rem;
+  font-weight: 600;
+  color: var(--primary);
+  text-decoration: none;
+  margin-bottom: 0.2rem;
+  transition: color 0.15s;
+}
+.title:hover {
+  color: var(--primary-light);
+}
+.series {
+  font-size: 1rem;
+  color: var(--secondary);
+  margin-bottom: 0.3rem;
+}
+.description {
+  font-size: 0.98rem;
+  color: var(--text-dark);
+  margin-bottom: 0.7rem;
+}
+.meta-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.1rem;
+  background: var(--light);
+  border-radius: var(--border-radius);
+  padding: 0.6rem 0.9rem;
+  margin-top: 0.5rem;
+  font-size: 0.97rem;
+  box-shadow: 0 1px 3px 0 rgba(0,0,0,0.04);
+}
+.meta-bar a.meta-link {
+  color: var(--primary-light);
+  text-decoration: none;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 0.3em;
+}
+.meta-bar a.meta-link:hover {
+  text-decoration: underline;
+}
+.meta-bar i {
+  margin-right: 0.18em;
+  color: var(--primary);
+  font-size: 1.08em;
+}
+.meta-bar .meta-views, .meta-bar .meta-pdf {
+  color: var(--text-light);
+  display: flex;
+  align-items: center;
+  gap: 0.2em;
+}
+.meta-bar b[data-count-type] {
+  font-weight: 600;
+  color: var(--primary);
+  margin: 0 0.1em;
+  min-width: 1.5em;
+  display: inline-block;
+  text-align: right;
+}
+.meta-bar .meta-dimensions {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+.dimensions-badge {
+  display: inline-block;
+  vertical-align: middle;
+  cursor: pointer;
+  position: relative;
+}
+.dimensions-badge svg {
+  width: 40px;
+  height: 40px;
+  display: block;
+}
+.dimensions-badge:hover::after {
+  content: "Total: 1 | Recent: 1";
+  position: absolute;
+  left: 0;
+  bottom: -35px;
+  transform: none;
+  background: var(--primary);
+  color: #fff;
+  font-size: 0.93rem;
+  padding: 0.25em 0.7em;
+  border-radius: 0.5em;
+  white-space: nowrap;
+  z-index: 10;
+  box-shadow: 0 2px 8px 0 rgba(0,0,0,0.13);
+}
+@media (max-width: 700px) {
+  .archive-container {
+    padding: 0.5rem;
+  }
+  .issues_archive {
+    gap: 1.1rem;
+  }
+  .issues_archive > li {
+    max-width: 100%;
+    min-width: 0;
+  }
+  .obj_issue_summary {
+    flex-direction: column;
+    align-items: stretch;
+    padding: 1.1rem 0.7rem 0.9rem 0.7rem;
+    gap: 0.7rem;
+  }
+  .cover img {
+    width: 100%;
+    max-width: 180px;
+    height: auto;
+    margin: 0 auto 0.7rem auto;
+    display: block;
+  }
+}  */

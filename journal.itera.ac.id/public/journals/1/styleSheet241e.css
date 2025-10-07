@@ -1,0 +1,34 @@
+.vertical-menu {
+width: 100%; /* lebar dari menu*/
+}
+
+.vertical-menu a {
+background-color: #fbe0c4; /* Warna pada bagian body menu */
+color: black; /* Warna tulisan */
+display: block;
+padding: 12px;
+text-decoration: none;
+font-family: arial; /*Jenis font*/
+}
+
+.vertical-menu a:hover {
+background-color: #8ab6d6; /* Warna efek yang keluar ketika di arahkan mouse */
+}
+
+.vertical-menu a.active {
+background-color: #2978b5; /* Warna pada header menu */
+color: white; /*Warna font*/
+font-family: arial; /*Jenis font*/
+}
+
+.vertical-menu a.submit {
+background-color: #0061a8; /* Warna pada header menu */
+color: white; /*Warna font*/
+font-family: arial; /*Jenis font*/
+border-radius: 5px;
+text-align: center;
+}
+
+.pkp_brand_footer{
+	display: none;
+}
